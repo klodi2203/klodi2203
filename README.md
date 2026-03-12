@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/klodian-doka">
+  <a href="https://www.linkedin.com/in/klodian-doka-466414370">
     <img src="https://img.shields.io/badge/LinkedIn-klodian--doka-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:klodiandoka@outlook.com">
+  <a href="/cdn-cgi/l/email-protection#680304070c0109060c07030928071d1c04070703460b0705">
     <img src="https://img.shields.io/badge/Email-klodiandoka@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
@@ -18,10 +18,10 @@
 
 I'm a Computer Engineering student building a strong foundation in both **backend systems** and **modern frontend development**. I enjoy solving real-world problems through code — from designing clean REST APIs to crafting responsive UIs.
 
-- 🔭 Currently working through **CS50x** (Harvard) and **The Odin Project** full-stack curriculum
-- 💡 Interested in backend architecture, clean code principles, and developer tooling
-- 🌍 Fluent in Greek, English, and intermediate Spanish
-- ⚡ Outside of code: I've spent years running a fast-paced retail operation — which taught me more about problem-solving and teamwork than I expected
+🔭 Currently working through **CS50x** (Harvard) and **The Odin Project** full-stack curriculum
+💡 Interested in backend architecture, clean code principles, and developer tooling
+🌍 Fluent in Greek, English, and intermediate Spanish
+⚡ Outside of code: I've spent years running a fast-paced retail operation — which taught me more about problem-solving and teamwork than I expected
 
 ## 🛠️ Tech Stack
 
@@ -75,5 +75,4 @@ I'm a Computer Engineering student building a strong foundation in both **backen
 
 <p align="center">
   <em>Always building. Always learning.</em><br/>
-  📬 Reach me at <a href="mailto:klodiandoka@outlook.com">klodiandoka@outlook.com</a>
-</p>
+  📬 Reach me at <a href="/cdn-cgi/l/email-pr
