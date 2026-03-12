@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/klodian-doka-466414370">
     <img src="https://img.shields.io/badge/LinkedIn-klodian--doka-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#680304070c0109060c07030928071d1c04070703460b0705">
+  <a href="mailto:klodiandoka@outlook.com">
     <img src="https://img.shields.io/badge/Email-klodiandoka@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
@@ -75,4 +75,5 @@ I'm a Computer Engineering student building a strong foundation in both **backen
 
 <p align="center">
   <em>Always building. Always learning.</em><br/>
-  📬 Reach me at <a href="/cdn-cgi/l/email-pr
+  📬 Reach me at <a href="mailto:klodiandoka@outlook.com">klodiandoka@outlook.com</a>
+</p>
