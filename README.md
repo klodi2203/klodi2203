@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a Computer Engineering student building a strong foundation in both **backend systems** and **modern frontend development**. I enjoy solving real-world problems through code — from designing clean REST APIs to crafting responsive UIs.
@@ -24,8 +22,6 @@ I'm a Computer Engineering student building a strong foundation in both **backen
 - 💡 Interested in backend architecture, clean code principles, and developer tooling
 - 🌍 Fluent in Greek, English, and intermediate Spanish
 - ⚡ Outside of code: I've spent years running a fast-paced retail operation — which taught me more about problem-solving and teamwork than I expected
-
----
 
 ## 🛠️ Tech Stack
 
@@ -63,23 +59,6 @@ I'm a Computer Engineering student building a strong foundation in both **backen
 
 `REST APIs` · `OOP` · `SOLID Principles` · `TDD` · `CI/CD` · `Agile/Scrum` · `Clean Code`
 
----
-
-## 🚀 Featured Project
-
-### 💈 [BarberShop Management System](https://github.com/klodi2203)
-> React · Python · Flask · SQL · HTML/CSS
-
-A full-stack web booking platform built to replace manual appointment tracking for a barbershop business.
-
-- 📅 Clients can browse availability and book appointments in real time
-- 🔐 Secure admin panel with full **CRUD** control over appointments and staff schedules
-- ⚛️ **React Hooks** for state management and real-time slot updates
-- 🐍 **Python/Flask** backend handling business logic and conflict detection
-- 🗄️ **SQL database** for persistent data storage
-
----
-
 ## 📚 Currently Learning
 
 | Course | Platform | Status |
@@ -87,16 +66,12 @@ A full-stack web booking platform built to replace manual appointment tracking f
 | CS50x: Introduction to Computer Science | Harvard / edX | 🔄 In Progress |
 | Full Stack Web Development | The Odin Project | 🔄 In Progress |
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=klodi2203&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klodi2203&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
----
 
 <p align="center">
   <em>Always building. Always learning.</em><br/>
